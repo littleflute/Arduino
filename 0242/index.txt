@@ -1,0 +1,13 @@
+
+Personal Author: Evans, Martin.
+Title All: Arduino in action / Martin Evans, Joshua Noble, Jordan Hochenbaum.
+Author: Evans, Martin. Noble, Joshua J., 1977- Hochenbaum, Jordan.
+Local Call Number: 005.1
+ISBN: 9781617290244
+Physical Description: xxii, 346 pages : illustrations ; 24 cm.
+Subject Term:
+Arduino (Programmable controller)
+Electronics -- Data processing.
+Prototypes, Engineering.
+Open source software.
+Holds: 1

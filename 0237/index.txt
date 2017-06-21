@@ -1,0 +1,12 @@
+
+Personal Author: Blum, Jeremy.
+Title All: Exploring Arduino : tools and techniques for engineering wizardry / Jeremy Blum.
+Author: Blum, Jeremy.
+Local Call Number: 629.89
+ISBN: 9781118549360
+Publication Information: Indianapolis, IN : Wiley, c2013.
+Physical Description: xxv, 357 p. : ill. ; 24 cm.
+Contents: Part I. Arduino engineering basics -- 1. Getting up and blinking with Arduino -- 2. Digital inputs, outputs, and pulse-width modulation -- 3. Reading analog sensors -- Part II. Controlling your environment -- 4. Using transistors and driving motors -- 5. Making sounds -- 6. USB and serial communication -- 7. Shift registers -- Part III. Communication interfaces -- 8. The I2C buss -- 9. The SPI bus -- 10. Interfacing with liquid crystal displays -- 11. Wireless communication with XBee radios -- Part IV. Advanced topics and projects -- 12. Hardware and timer interrupts -- 13. Data logging with SD cards -- 14. Connecting your Arduino to the Internet -- Appendix. Deciphering the ATMega datasheet and Arduino schematics.
+Subject Term:
+Arduino (Programmable controller)
+Holds: 1
